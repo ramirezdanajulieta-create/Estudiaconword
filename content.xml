@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260604082640GS0LKE</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260604082640ZAKRDP</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento Word y sus controles</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Dana Julieta Ramirez Pacasira- Ana Sofia Pérez Caicedo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780579492314</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpzj20sd-2w6nfqbnd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzj20se-amyhx99r3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Unidad 1</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Unidad 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Unidad 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzj20sf-0cfzeckw9</odePageId>
+  <odeParentPageId>page-mpzj20se-amyhx99r3</odeParentPageId>
+  <pageName>Bienvenida </pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bienvenida </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzj20sf-0cfzeckw9</odePageId>
+      <odeBlockId>block-1779159318439-cfa7zl65g</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzj20sf-0cfzeckw9</odePageId>
+          <odeBlockId>block-1779159318439-cfa7zl65g</odeBlockId>
+          <odeIdeviceId>idevice-1779159318435-2o2akp47i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<p>Bienvenido a esta clase digital sobre Word. En este proyecto aprenderemos qué es Word, cuáles son sus principales funciones, cómo utilizar sus herramientas y qué controles ofrece para crear documentos organizados y profesionales.</p>
+<p>Actualmente Word es uno de los programas más utilizados en el mundo académico y laboral, ya que permite redactar trabajos, cartas, informes, hojas de vida y diferentes tipos de documentos digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779159318435-2o2akp47i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<p>Bienvenido a esta clase digital sobre Word. En este proyecto aprenderemos qué es Word, cuáles son sus principales funciones, cómo utilizar sus herramientas y qué controles ofrece para crear documentos organizados y profesionales.</p>\n<p>Actualmente Word es uno de los programas más utilizados en el mundo académico y laboral, ya que permite redactar trabajos, cartas, informes, hojas de vida y diferentes tipos de documentos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzj20sj-cretl6h0b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sección 1: Contenido  </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sección 1: Contenido  </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sección 1: Contenido  </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzj20sm-lhr8kiqhd</odePageId>
+  <odeParentPageId>page-mpzj20sj-cretl6h0b</odeParentPageId>
+  <pageName>¿Que es Word? </pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Que es Word? </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Que es Word? </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzj20sm-lhr8kiqhd</odePageId>
+      <odeBlockId>block-1779159701220-bw68oc84q</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzj20sm-lhr8kiqhd</odePageId>
+          <odeBlockId>block-1779159701220-bw68oc84q</odeBlockId>
+          <odeIdeviceId>idevice-1779159701219-vo8hl1c65</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Microsoft Word es un procesador de texto desarrollado por Microsoft que permite crear, editar, organizar y guardar documentos digitales.</p>
+<p>Este programa hace parte del paquete Microsoft Office y es utilizado en colegios, universidades, empresas y hogares.</p>
+<p>Con Word se pueden realizar diferentes actividades como crear documentos escolares, diseñar cartas, elaborar informes, insertar imágenes y gráficos, crear tablas y aplicar estilos de texto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779159701219-vo8hl1c65","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Microsoft Word es un procesador de texto desarrollado por Microsoft que permite crear, editar, organizar y guardar documentos digitales.</p>\n<p>Este programa hace parte del paquete Microsoft Office y es utilizado en colegios, universidades, empresas y hogares.</p>\n<p>Con Word se pueden realizar diferentes actividades como crear documentos escolares, diseñar cartas, elaborar informes, insertar imágenes y gráficos, crear tablas y aplicar estilos de texto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzj20sm-lhr8kiqhd</odePageId>
+      <odeBlockId>block-1779161126375-1r56mip89</odeBlockId>
+      <blockName>Logo de word</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzj20sm-lhr8kiqhd</odePageId>
+          <odeBlockId>block-1779161126375-1r56mip89</odeBlockId>
+          <odeIdeviceId>idevice-1779161126374-653d9om09</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779161126374-653d9om09" title="" href="{{context_path}}/content/resources/word-min-e1504715861971.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/word-min-e1504715861971.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779161126374-653d9om09","img_0":{"img":"{{context_path}}/content/resources/word-min-e1504715861971.jpg","thumbnail":"{{context_path}}/content/resources/word-min-e1504715861971.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzj20sp-5ria4urat</odePageId>
+  <odeParentPageId>page-mpzj20sm-lhr8kiqhd</odeParentPageId>
+  <pageName>Herramientas principales de Word </pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas principales de Word </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas principales de Word </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzj20sp-5ria4urat</odePageId>
+      <odeBlockId>block-1779160436309-d8smgxgyb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzj20sp-5ria4urat</odePageId>
+          <odeBlockId>block-1779160436309-d8smgxgyb</odeBlockId>
+          <odeIdeviceId>idevice-1779160436306-jt4qhpuns</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Pestaña Inicio (Formato y Estilo)</strong></p>
+<p>Aquí se encuentran las herramientas para modificar la apariencia del texto y su estructura. </p>
+<p><strong><em>Fuente: </em></strong>Permite cambiar el tipo de letra (ej. Arial, Times New Roman), su tamaño, color y aplicar estilos rápidos: Negrita (N), Cursiva (K) y Subrayado (S).<br /><strong><em>Portapapeles:</em></strong> Incluye las opciones de Copiar, Pegar y Cortar fragmentos de texto o imágenes.<br /><strong><em>Párrafo: </em></strong>Sirve para alinear el texto a la izquierda, derecha, centrarlo o justificarlo (alinear ambos lados). También permite crear listas con viñetas o numeración y ajustar el interlineado (espacio entre líneas).<br /><strong><em>Estilos:</em></strong> Aplica formatos predeterminados (como títulos o subtítulos) de forma rápida para mantener la coherencia en todo el documento. <br /></p>
+<p><br /></p>
+<p><strong>2. Pestaña Insertar </strong></p>
+<p>Esta pestaña se utiliza para añadir elementos visuales o prácticos al documento. </p>
+<p><em><strong>Tablas: </strong></em>Permite crear tablas personalizadas para organizar datos en filas y columnas.<br /><em><strong>Imágenes:</strong></em> Inserta fotografías, gráficos o íconos desde la computadora o internet.<br /><strong><em>Formas: </em></strong>Agrega figuras geométricas, flechas, diagramas de flujo o gráficos jerárquicos.<br /><em><strong>Encabezado, Pie de página y Número de página: </strong></em>Herramientas ideales para insertar títulos, fechas o la numeración correlativa en todas las hojas.<br /></p>
+<p><br /></p>
+<p><strong>3. Pestaña Disposición o Formato</strong></p>
+<p><em><strong>Márgenes:</strong></em> Ajusta el espacio vacío en los bordes de la página.<br /><em><strong>Orientación:</strong></em> Cambia la posición de la hoja entre vertical y horizontal.<br /><em><strong>Tamaño: </strong></em>Configura el tamaño del papel (ej. Carta, A4, Oficio).<br /></p>
+<p><br /></p>
+<p><strong>4. Pestaña Revisar</strong></p>
+<p>Ortografía y gramática: Analiza el texto en busca de errores y sugiere correcciones automáticas. <br /> </p>
+<p> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779160436306-jt4qhpuns","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Pestaña Inicio (Formato y Estilo)</strong></p>\n<p>Aquí se encuentran las herramientas para modificar la apariencia del texto y su estructura. </p>\n<p><strong><em>Fuente: </em></strong>Permite cambiar el tipo de letra (ej. Arial, Times New Roman), su tamaño, color y aplicar estilos rápidos: Negrita (N), Cursiva (K) y Subrayado (S).<br /><strong><em>Portapapeles:</em></strong> Incluye las opciones de Copiar, Pegar y Cortar fragmentos de texto o imágenes.<br /><strong><em>Párrafo: </em></strong>Sirve para alinear el texto a la izquierda, derecha, centrarlo o justificarlo (alinear ambos lados). También permite crear listas con viñetas o numeración y ajustar el interlineado (espacio entre líneas).<br /><strong><em>Estilos:</em></strong> Aplica formatos predeterminados (como títulos o subtítulos) de forma rápida para mantener la coherencia en todo el documento. <br /></p>\n<p><br /></p>\n<p><strong>2. Pestaña Insertar </strong></p>\n<p>Esta pestaña se utiliza para añadir elementos visuales o prácticos al documento. </p>\n<p><em><strong>Tablas: </strong></em>Permite crear tablas personalizadas para organizar datos en filas y columnas.<br /><em><strong>Imágenes:</strong></em> Inserta fotografías, gráficos o íconos desde la computadora o internet.<br /><strong><em>Formas: </em></strong>Agrega figuras geométricas, flechas, diagramas de flujo o gráficos jerárquicos.<br /><em><strong>Encabezado, Pie de página y Número de página: </strong></em>Herramientas ideales para insertar títulos, fechas o la numeración correlativa en todas las hojas.<br /></p>\n<p><br /></p>\n<p><strong>3. Pestaña Disposición o Formato</strong></p>\n<p><em><strong>Márgenes:</strong></em> Ajusta el espacio vacío en los bordes de la página.<br /><em><strong>Orientación:</strong></em> Cambia la posición de la hoja entre vertical y horizontal.<br /><em><strong>Tamaño: </strong></em>Configura el tamaño del papel (ej. Carta, A4, Oficio).<br /></p>\n<p><br /></p>\n<p><strong>4. Pestaña Revisar</strong></p>\n<p>Ortografía y gramática: Analiza el texto en busca de errores y sugiere correcciones automáticas. <br /> </p>\n<p> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpzj20sp-5ria4urat</odePageId>
+      <odeBlockId>block-1779164630513-6oxxhzlsv</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzj20sp-5ria4urat</odePageId>
+          <odeBlockId>block-1779164630513-6oxxhzlsv</odeBlockId>
+          <odeIdeviceId>idevice-1779164630510-6gs0bnyhl</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779164630510-6gs0bnyhl" title="" href="{{context_path}}/content/resources/ventana-word-explicada.webp" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/ventana-word-explicada.webp" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779164630510-6gs0bnyhl","img_0":{"img":"{{context_path}}/content/resources/ventana-word-explicada.webp","thumbnail":"{{context_path}}/content/resources/ventana-word-explicada.webp","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzj20sr-ezaoq4bai</odePageId>
+  <odeParentPageId>page-mpzj20sp-5ria4urat</odeParentPageId>
+  <pageName>Controles y atajos que ofrece Word</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Controles y atajos que ofrece Word</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Controles y atajos que ofrece Word</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzj20sr-ezaoq4bai</odePageId>
+      <odeBlockId>block-1779161696810-e98vvnw23</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzj20sr-ezaoq4bai</odePageId>
+          <odeBlockId>block-1779161696810-e98vvnw23</odeBlockId>
+          <odeIdeviceId>idevice-1779161696809-07j4c8ftb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>  <img src="{{context_path}}/content/resources/ATAJOS WORD" width="1024" height="1536" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779161696809-07j4c8ftb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>  <img src=\"{{context_path}}/content/resources/ATAJOS WORD\" width=\"1024\" height=\"1536\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpzj20ss-k3hvgjlvs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sección 2: Actividad</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sección 2: Actividad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sección 2: Actividad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sección 2: Actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpzj20ss-k3hvgjlvs</odePageId>
+      <odeBlockId>block-1779817502236-fo784dzyy</odeBlockId>
+      <blockName>selecciona la opcion correcta</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpzj20ss-k3hvgjlvs</odePageId>
+          <odeBlockId>block-1779817502236-fo784dzyy</odeBlockId>
+          <odeIdeviceId>idevice-1779817502232-v50nepy82</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1779817502232-v50nepy82" data-evaluationb="false" data-evaluationid="cbdab67a-5f3c-402f-bdbe-c8f94ebb0670"></div>
+            <div id="frmMainContainer-idevice-1779817502232-v50nepy82" class="form-IDevice" data-id="idevice-1779817502232-v50nepy82">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Selecciona la opcion correcta segun el enunciado </p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1779817502232-v50nepy82">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1779817502232-v50nepy82" style="display:none;">
+                      <button  id="frmStartGame-idevice-1779817502232-v50nepy82" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1779817502232-v50nepy82" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1779817502232-v50nepy82" > </div>
+                        <div id="frmCover-idevice-1779817502232-v50nepy82" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1779817502232-v50nepy82" class="form-results-container inline">
+                        <div id="form-score-idevice-1779817502232-v50nepy82" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1779817502232-v50nepy82" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1779817502232-v50nepy82" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1779817502232-v50nepy82" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1779817502232-v50nepy82" type="button" value="Reiniciar"
+                            data-id="idevice-1779817502232-v50nepy82" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1779817502232-v50nepy82" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1779817502232-v50nepy82" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1779817502232-v50nepy82" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779817502232-v50nepy82","evaluation":false,"evaluationID":"cbdab67a-5f3c-402f-bdbe-c8f94ebb0670","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1779817502232-v50nepy82","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Selecciona la opcion correcta segun el enunciado </p>","questionsData":[{"id":"1779817863236-X0BHJ","activityType":"selection","baseText":"<p>1.______ es el programa uutilizado para crear documentos digitales</p>","feedbackRight":"increible","feedbackWrong":"que triste ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"A. Power Point\n"],[false,"B. Ecxel "],[true,"C. programa de word"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779818199413-DXS6S","activityType":"selection","baseText":"<p>2.La pestaña________permite insertar imagenes y tablas </p>","feedbackRight":"increible","feedbackWrong":"que triste ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"A. Insertar "],[false,"B. Fuentes"],[false,"C. Arial "]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1779818410484-F6RT9","activityType":"selection","baseText":"<p>3. El comando _______sirve para copiar texto o imagenes </p>","feedbackRight":"increible","feedbackWrong":"que triste ","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"A. Ctrl+Z"],[false,"B. Ctrl+G"],[true,"C. Ctrl+C"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
